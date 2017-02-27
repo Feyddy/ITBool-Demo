@@ -1,0 +1,125 @@
+
+.clr {
+	clear: both;
+}
+.container {
+	width: 1002px;
+}
+.header {
+	height: 128px;
+	background: url(images/top_bg.jpg);
+}
+.nav li {
+	float: left;
+	width: 90px;
+	margin-left: 1px;
+}
+
+.nav a {
+	font-size: 16px;
+	font-family: '微软雅黑';
+	color: black;
+	display: block;
+	width: 90px;
+	height: 37px;
+	line-height: 37px;
+	text-align: center;
+}
+
+.nav a:hover {
+	color: white;
+	background: url(images/nav_on.gif);
+}
+
+.main {
+	
+}
+
+.lside {
+	height: 480px;
+	width: 694px;
+	border: 1px solid gray;
+	float: left;
+
+}
+
+.rside {
+	height: 480px;
+	width: 294px;
+	float: right;
+	background-color: green;
+}
+
+.footer {
+	background-color: orange;
+	height: 100px;
+}
+
+.subtitle {
+	height: 37px;
+	background: url(images/index_main_top_bg.gif);
+	line-height: 37px;
+	font-size: 16px;
+
+}
+
+.subtitle img {
+	float: left;
+	margin: 5px 0 0 10px;
+}
+
+.subtitle h1 {
+	float: left;
+	margin-left: 10px;
+
+}
+.subtitle a {
+	float: right;
+	margin-right: 10px;
+	color: gray;
+}
+
+.four img {
+	float: left;
+	margin: 10px;
+	padding: 6px;
+	background-color: white;
+}
+
+.four ul {
+	float: left;
+	margin: 7px;
+}
+.four li {
+	font-size: 12px;
+	background: url(images/service_intro_bg.gif) no-repeat;
+	padding-left: 10px;
+}
+.four h2 {
+	font-size: 16px;
+	color: black;
+	margin: 6px 0 0 10px;
+
+}
+.four li {
+	margin: 5px;
+
+}
+
+.four a {
+	color: black;
+}
+.four a:visited {
+
+color: gray;
+}
+
+
+.four {
+	width: 326px;
+	height: 200px;
+	float: left;
+	margin: 10px;
+	height: 198px;
+	background-color: rgb(239,239,239);
+}
